@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/pixelRena/">
-    <img src="frontend/public/logo.png" alt="Logo" width="80">
+    <img src="public/logo.png" alt="Logo" width="80">
   </a>
 
 <h2 align="center">Ecommerce Cats</h2>
