@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/pixelRena/">
-    <img src="public/logo.png" alt="Logo" width="80">
+    <img width="64" height="64" src="https://img.icons8.com/external-mixed-kendis-lasman/64/external-cat-love-family-mixed-mixed-kendis-lasman-2.png" alt="external-cat-love-family-mixed-mixed-kendis-lasman-2"/>
   </a>
 
 <h2 align="center">Ecommerce Cats</h2>
