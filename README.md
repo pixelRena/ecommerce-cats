@@ -3,7 +3,7 @@
     <img width="64" height="64" src="https://img.icons8.com/external-mixed-kendis-lasman/64/external-cat-love-family-mixed-mixed-kendis-lasman-2.png" alt="external-cat-love-family-mixed-mixed-kendis-lasman-2"/>
   </a>
 
-<h2 align="center">Ecommerce Cats</h2>
+<h2 align="center">E-Cats</h2>
   <p align="center">
     A React SPA for cat owners to shop all their necessities. 
     <br />
