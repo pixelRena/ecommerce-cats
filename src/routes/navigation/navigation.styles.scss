@@ -33,6 +33,7 @@
     padding: 10px 15px;
     cursor: pointer;
     text-transform: uppercase;
+    white-space: nowrap;
     &:visited {
       color: #f6f6f6;
     }
@@ -44,7 +45,7 @@
   }
 
   .nav-links-container {
-    width: 30%;
+    width: 40vw;
     height: 100%;
     display: flex;
     justify-content: space-around;
